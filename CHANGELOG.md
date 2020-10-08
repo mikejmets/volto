@@ -6,6 +6,8 @@
 
 ### Feature
 
+- Custom group component for selectStyling @nileshgulia1
+
 ### Bugfix
 
 ### Internal
